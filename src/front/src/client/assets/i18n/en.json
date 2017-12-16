@@ -1,0 +1,28 @@
+{
+  "APP_NAME": "Open Face",
+  "DEFAULT_TITLE": "Open Face",
+  "DEFAULT_META_DESCRIPTION": "Open Face",
+  
+  "PUBLIC.MENU.ENGLISH": "English",
+  "PUBLIC.MENU.FRENCH": "French",
+  
+  "PUBLIC.MENU.HOME": "Home",
+  "PUBLIC.HOME.PAGE_TITLE": "",
+  "PUBLIC.HOME.META_DESCRIPTION": "Welcome to ng-seed",
+  "PUBLIC.HOME.CARD_TITLE": "Home",
+  "PUBLIC.HOME.CARD_SUBTITLE": "Welcome to ng-seed",
+
+  "PUBLIC.MENU.TRAINING": "Training",
+  "PUBLIC.TRAINING.PAGE_TITLE": "",
+  "PUBLIC.TRAINING.META_DESCRIPTION": "Welcome to ng-seed",
+  "PUBLIC.TRAINING.CARD_TITLE": "Home",
+  "PUBLIC.TRAINING.CARD_SUBTITLE": "Welcome to ng-seed",
+  "PUBLIC.TRAINING.TABS.NEED_IDENTITY": "Need identity",
+  "PUBLIC.TRAINING.TABS.IDENTIFIED": "Identified",
+  
+  "PUBLIC.MENU.ABOUT": "About",
+  "PUBLIC.ABOUT.PAGE_TITLE": "About",
+  "PUBLIC.ABOUT.META_DESCRIPTION": "This page provides a dummy overview of nothing",
+  "PUBLIC.ABOUT.CARD_TITLE": "About",
+  "PUBLIC.ABOUT.CARD_SUBTITLE": "This page provides a dummy overview of nothing"
+}

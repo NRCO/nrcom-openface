@@ -1,0 +1,16 @@
+{
+    "keycloak": {
+        "client" : "ws-api",
+        "clientAdmin": "client-admin",
+        "user" : {
+            "username" : "ws-user-api",
+            "password" : "ws-user-api",
+            "client" : "admin-cli"
+        },
+        "roles": [
+            "ws-api.read",
+            "ws-api.write",
+            "ws-api.delete"
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+version: '2'
+services:
+    openface:
+        build: https://github.com/NRCommunication/openface.git#websock-server
+        ports:
+            - 9000:9000
+    mongo:
+        image: mongo:3.2
+        entrypoint: "mongod --profile=1 --slowms=1 --logpath=/var/log/mongodb/mongod.log"
+        container_name: mongo
+        ports:
+            - 27017:27017
+        volumes:
+            - ./volumes/mongo/db:/data/db
+            - ./volumes/mongo/logs:/var/log/mongodb
+    elastic:
+        image: elasticsearch:alpine
+        container_name: elastic
+        ports:
+            - 9300:9300
+            - 9200:9200
+        volumes:
+            - ./volumes/elastic/data:/usr/share/elasticsearch/data

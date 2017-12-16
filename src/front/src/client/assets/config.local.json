@@ -1,0 +1,50 @@
+{
+  "system": {
+    "applicationName": "APP_NAME",
+    "applicationUrl": "http://ng-seed.fulls1z3.com"
+  },
+  "seo": {
+    "defaultPageTitle": "DEFAULT_TITLE",
+    "pageTitlePositioning": 10,
+    "pageTitleSeparator": " | ",
+    "defaultMetaDescription": "DEFAULT_META_DESCRIPTION"
+  },
+  "i18n": {
+    "defaultLanguage": {
+      "code": "fr",
+      "name": "French",
+      "culture": "fr-FR"
+    },
+    "availableLanguages": [
+      {
+        "code": "en",
+        "name": "English",
+        "culture": "en-US"
+      },
+      {
+        "code": "fr",
+        "name": "French",
+        "culture": "fr-FR"
+      }
+    ],
+    "useLocalizedRoutes": true
+  },
+  "routes": {
+    "en": {
+      "ROOT.ABOUT": "about",
+      "ROOT.ABOUT.US": "us",
+      "ROOT.ABOUT.BANANA": "banana",
+      "ROOT.ABOUT.APPLE": "apple",
+      "ROOT.ABOUT.APPLE.PEAR": "pear",
+      "CHANGE_LANGUAGE": "change-language"
+    },
+    "fr": {
+      "ROOT.ABOUT": "a-propos",
+      "ROOT.ABOUT.US": "qui-sommes-nous",
+      "ROOT.ABOUT.BANANA": "banane",
+      "ROOT.ABOUT.APPLE": "pomme",
+      "ROOT.ABOUT.APPLE.PEAR": "poire",
+      "CHANGE_LANGUAGE": "changement-langue"
+    }
+  }
+}

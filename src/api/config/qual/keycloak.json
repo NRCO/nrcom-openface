@@ -1,0 +1,7 @@
+{
+    "keycloak" : {
+        "host" : "keycloak",
+        "ssl" : false,
+        "realm" : "master"
+    }
+}

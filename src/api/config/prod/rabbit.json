@@ -1,0 +1,7 @@
+{
+    "rabbit" : {
+        "url": "amqp://rabbit",
+        "exchange": "nrcom",
+        "queue": "ws-api"
+    }
+}

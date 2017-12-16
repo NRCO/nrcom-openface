@@ -1,0 +1,27 @@
+{
+  "APP_NAME": "Open Face",
+  "DEFAULT_TITLE": "Open Face",
+  "DEFAULT_META_DESCRIPTION": "Open Face",
+  
+  "PUBLIC.MENU.ENGLISH": "Anglais",
+  "PUBLIC.MENU.FRENCH": "Français",
+  
+  "PUBLIC.MENU.HOME": "Accueil",
+  "PUBLIC.HOME.PAGE_TITLE": "",
+  "PUBLIC.HOME.META_DESCRIPTION": "Welcome to ng-seed",
+  "PUBLIC.HOME.CARD_TITLE": "Accueil",
+  "PUBLIC.HOME.CARD_SUBTITLE": "Bienvenue sur l'accueil",
+
+  "PUBLIC.MENU.TRAINING": "Entrainement",
+  "PUBLIC.TRAINING.PAGE_TITLE": "",
+  "PUBLIC.TRAINING.META_DESCRIPTION": "Welcome to ng-seed",
+  "PUBLIC.TRAINING.TABS.NEED_IDENTITY": "À identifier",
+  "PUBLIC.TRAINING.TABS.IDENTIFIED": "Identifiées",
+  
+  "PUBLIC.MENU.ABOUT": "À propos",
+  "PUBLIC.ABOUT.PAGE_TITLE": "À propos",
+  "PUBLIC.ABOUT.META_DESCRIPTION": "Bienvenue sur l'accueil",
+  "PUBLIC.ABOUT.CARD_TITLE": "À propos",
+  "PUBLIC.ABOUT.CARD_SUBTITLE": "Bienvenue sur l'accueil"
+}
+

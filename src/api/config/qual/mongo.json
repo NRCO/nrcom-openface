@@ -1,0 +1,10 @@
+{
+    "mongo" : {
+        "url" : "mongodb://mongo/nrcom-api",
+        "options" : {
+            "server" : {
+                "reconnectTries": 60
+            }
+        }
+    }
+}

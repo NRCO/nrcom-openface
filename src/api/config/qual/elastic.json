@@ -1,0 +1,6 @@
+{
+    "elastic": {
+        "host": "elastic:9200",
+        "log": "info"
+    }
+}
